@@ -25,12 +25,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
-## 🕹️ Featured Projects
-
-* **🐍 Snake Game:** A classic, addictive implementation of the retro Snake game focusing on core mechanics, smooth controls, and progressive difficulty.
-* **👾 Arcade Collection:** A curated collection of arcade-style web games and experiments, built to bring nostalgic gaming experiences to modern browsers.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -106,7 +100,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake.svg">
 </picture>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   <i>🌌 Destiny always demands patience 🌌</i>
