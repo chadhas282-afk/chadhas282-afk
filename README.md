@@ -108,7 +108,9 @@
 </picture>
 ### 🎮 My Contributions PacMan
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/pacman-contribution-graph.svg">
+<picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/pacman-contribution-graph.svg">
+</picture>
 
 *(Note: To make the snake animation work, you will need to set up a GitHub Action using `platane/snk` in your repository to generate the SVGs.)*
 
