@@ -68,28 +68,21 @@
 
 ### ⚡ GitHub Performance Matrix
 
-<a href="https://github.com/chadhas282-afk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chadhas282-afk&show_icons=true&theme=neon&hide_border=false&bg_color=0d1117&title_color=00FF88&text_color=00FFFF&icon_color=FF00FF&border_color=00FF88" />
-</a>
-<a href="https://github.com/chadhas282-afk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadhas282-afk&layout=compact&theme=neon&hide_border=false&bg_color=0d1117&title_color=00FF88&text_color=00FFFF&border_color=00FF88" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadhas282-afk&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=00FFFF&icon_color=FF00FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chadhas282-afk&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=00FFFF)
 
 ### 🔥 Contribution Heatmap
 
-<a href="https://github.com/chadhas282-afk">
-  <img src="https://streak-stats.demolab.com?user=chadhas282-afk&theme=neon&hide_border=false&background=0d1117&ring=00FF88&fire=FF00FF&currStreakNum=00FFFF" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=chadhas282-afk&theme=neon&hide_border=true&background=0d1117&ring=00FF88&fire=FF00FF&currStreakNum=00FFFF)
 
 ### 🏆 Achievement Showcase
 
-<a href="https://github.com/chadhas282-afk">
-  <img src="https://github-profile-trophy.vercel.app/?username=chadhas282-afk&theme=neon&no-frame=false&no-bg=true&margin-w=10&row=1&column=7" />
-</a>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chadhas282-afk&theme=neon&no-frame=true&no-bg=true&margin-w=10)
 
 ### 📊 Contribution Graph - Live Activity
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chadhas282-afk&theme=neon-dark&bg_color=0d1117&color=00FF88&line=FF00FF&point=00FFFF&hide_border=false)](https://github.com/chadhas282-afk)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chadhas282-afk&theme=neon-dark&bg_color=0d1117&color=00FF88&line=FF00FF&point=00FFFF&hide_border=true)](https://github.com/chadhas282-afk)
 
 </div>
 
@@ -101,11 +94,9 @@
 
 ### 🐍 Watch Me Code (My GitHub Contributions)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+**[⚡ Setup Snake Animation Workflow](https://github.com/chadhas282-afk/chadhas282-afk/new/main?filename=.github%2Fworkflows%2Fsnake.yml)**
+
+Once you enable the GitHub Actions workflow, your snake animation will appear here! 🐍✨
 
 ### 🎯 Unique Stats Animations
 
@@ -267,7 +258,7 @@ Learning Velocity: ████████████████████ 
 <tr>
 <td align="center" width="120">
 <a href="https://www.linkedin.com/in/chadha-sahil/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10px" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <br/>
 <sub><b>Professional 🤝</b></sub>
