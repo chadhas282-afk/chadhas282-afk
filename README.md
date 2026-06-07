@@ -106,14 +106,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/chadhas282-afk/chadhas282-afk/output/github-contribution-grid-snake.svg">
 </picture>
-### 🎮 My Contributions PacMan
-
-<picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/pacman-contribution-graph.svg">
-</picture>
-
-*(Note: To make the snake animation work, you will need to set up a GitHub Action using `platane/snk` in your repository to generate the SVGs.)*
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
